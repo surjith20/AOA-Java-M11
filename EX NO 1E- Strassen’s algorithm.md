@@ -42,8 +42,8 @@ Then merge C11, C12, C21, C22 to get the final matrix C.
 ```
 /*
 Program to implement Reverse a String
-Developed by: ILAIYADEEPAN K
-Register Number:  212223230080
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 
 import java.util.Scanner;
