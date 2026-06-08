@@ -1,5 +1,5 @@
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE:17/04/2026
+
 
 ## AIM:
 To write a Java program to for given constraints.
